@@ -1,3 +1,2 @@
 python-telegram-bot
-google-generativeai
-Pillowhttps://github.com/abdocj/QUREO-BOT/tree/main
+google-genai
